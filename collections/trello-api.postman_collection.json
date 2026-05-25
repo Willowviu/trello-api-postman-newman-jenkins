@@ -640,7 +640,7 @@
     },
     {
       "key": "trelloKey",
-      "value": "0de0017f99755ff67ea3cbad081ddda1"
+      "value": "{{trelloKey}}"
     },
     {
       "key": "trelloToken",
